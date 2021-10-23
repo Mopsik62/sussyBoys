@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 <img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
+<img src="https://giphy.com/gifs/miss-maid-tohru-fT3PPZwB2lZMk">
 Markdown is a lightweight DIMA PIDORAS EBANIY and easy-to-use syntax for styling your writing. It includes conventions for
 ДИМА ТРИФОНОВ ПИДОРАС
 ```markdown
