@@ -1,11 +1,3 @@
-<script>
-function chpok(id){
-    elem = document.getElementById(id); //находим блок div по его id, который передали в функцию
-    state = elem.style.display; //смотрим, включен ли сейчас элемент
-    if (state =='') elem.style.display='none'; //если включен, то выключаем
-    else elem.style.display=''; //иначе - включаем
-}
-</script>
 
 # ඩා ඩා
 
@@ -27,9 +19,11 @@ Desktop developer, Stack: C/C++, Py
 
 <img src="/sussygif/Tohru.gif">
 
-пидарас и хуесос
+Desktop developer, Stack: C/C++
 
 ## Наши контакты:
-<p><a href="http://www.yandex.ru">Поисковая система Яндекс</a></p>
 
+<p><a href="https://vk.com/dj1vs>Дмитрий</a></p>
+
+<p><a href="https://vk.com/id290473511>Никита</a></p>    
 
