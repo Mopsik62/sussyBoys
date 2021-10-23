@@ -17,7 +17,7 @@ function chpok(id){
 ## Участники нашей команды:
 <button onclick="chpok('text')">СМАЧНАЯ БЕБРА</button>
 <div id="text">
-    <img src="/sussygif/Mishka.jpg">
+    <img src="https://icon-library.com/images/freddy-icon/freddy-icon-5.jpg">
 </div>
 ### Трифонов Дмитрий
 
