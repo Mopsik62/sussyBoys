@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FUCK YOU LEATHER MAN
 
 You can use the [editor on GitHub](https://github.com/Mopsik62/sussyBoys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
