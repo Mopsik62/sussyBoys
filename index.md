@@ -9,7 +9,7 @@
 
 ### Трифонов Дмитрий
 
-<img src="https://media.giphy.com/media/fT3PPZwB2lZMk/giphy.gif">
+<href="/sussygif/Billy.gif" img src="/sussygif/Billy.gif">
 
 Desktop developer, Stack: C/C++, Py
 
