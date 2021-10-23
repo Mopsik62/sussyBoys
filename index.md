@@ -21,7 +21,7 @@ Desktop developer, Stack: C/C++
 
 ## Наши контакты:
 
-<p><a href="https://vk.com/dj1vs>Дмитрий</a></p>
+<a href="https://vk.com/dj1vs>Дмитрий</a>
     
   
 
