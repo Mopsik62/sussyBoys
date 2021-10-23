@@ -1,4 +1,4 @@
-
+<link rel="icon" sizes="16x16" href="https://raw.githubusercontent.com/Mopsik62/sussyBoys/gh-pages/sussygif/favicon.ico">
 # ඩා ඩා
 
 Мы - первокурсники кафедры ИУ5 МГТУ им. Баумана, и мы впервые
