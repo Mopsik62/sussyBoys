@@ -25,8 +25,8 @@ function chpok(id){
 </div>
 ### Трифонов Дмитрий
 
-<a href="/sussygif/Billy.gif">
-    <img src="/sussygif/Billy.gif">
+<a href="https://raw.githubusercontent.com/Mopsik62/sussyBoys/gh-pages/sussygif/Billy.gif">
+    <img src="https://raw.githubusercontent.com/Mopsik62/sussyBoys/gh-pages/sussygif/Billy.gif">
 </a>
 Desktop developer, Stack: C/C++, Py
 
