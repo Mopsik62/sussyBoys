@@ -15,7 +15,7 @@ Desktop developer, Stack: C/C++, Py
 
 ### Никита Лялько
 
-fd;lasdkfsd;fl
+
 
 Desktop developer, Stack: C/C++
 
