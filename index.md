@@ -19,7 +19,7 @@ function chpok(id){
 <div id="text">
     <img src="https://icon-library.com/images/freddy-icon/freddy-icon-5.jpg">
     <audio controls style="width:100%;max-width:600px;">
-    <source src="/music/mark_bernes_-_zhuravli.mp3" type="audio/mp3">
+    <source src="/sussygif/OYE.mp3" type="audio/mp3">
     Тег audio не поддерживается вашим браузером.
 </audio>
 </div>
