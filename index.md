@@ -1,3 +1,24 @@
+# ඩ ඩ
+
+Мы - первокурсники кафедры ИУ5 МГТУ им. Баумана, и мы впервые
+учавствуем в вездекоде
+
+Но для нас нет ничего невозможного!
+
+## Участники нашей команды:
+
+### Трифонов Дмитрий
+
+<img src="https://media.giphy.com/media/fT3PPZwB2lZMk/giphy.gif">
+
+Desktop developer, Stack: C/C++, Py
+
+### Никита Лялько
+
+<img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
+
+пидарас и хуесос
+
 ## FUCK YOU LEATHER MAN
 
 You can use the [editor on GitHub](https://github.com/Mopsik62/sussyBoys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -12,6 +33,8 @@ Markdown is a lightweight DIMA PIDORAS EBANIY and easy-to-use syntax for styling
 НИКИТА ЛЯЛЬКО ПИДАРАС
 ```markdown
 Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
