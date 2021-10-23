@@ -20,7 +20,7 @@ Desktop developer, Stack: C/C++, Py
 Desktop developer, Stack: C/C++
 
 ## Наши контакты:
-
+[eq[e[qe[
 <p>
   <a href="https://vk.com/dj1vs">Дмитрий</a>
   
