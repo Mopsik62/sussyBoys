@@ -15,7 +15,7 @@ function chpok(id){
 Но для нас нет ничего невозможного!
 
 ## Участники нашей команды:
-<button onclick="chpok('text')">TEST</button>
+<button onclick="chpok('text')">СМАЧНАЯ БЕБРА</button>
 <div id="text">
     My Text
 </div>
