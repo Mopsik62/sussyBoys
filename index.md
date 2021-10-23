@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="/sussyBoys/favicon.ico">
+
 # ඩා ඩා
 
 Мы - первокурсники кафедры ИУ5 МГТУ им. Баумана, и мы впервые
@@ -19,7 +19,7 @@ Desktop developer, Stack: C/C++, Py
 
 Desktop developer, Stack: C/C++
 
-
+### Наши контакты
 <p>
   <a href="https://vk.com/dj1vs">Дмитрий</a>
   
