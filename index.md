@@ -6,11 +6,15 @@
 Но для нас нет ничего невозможного!
 
 ## Участники нашей команды:
-
+<button onclick="chpok('text')">TEST</button>
+<div id="text">
+    My Text
+</div>
 ### Трифонов Дмитрий
 
-<href="/sussygif/Billy.gif" img src="/sussygif/Billy.gif">
-
+<a href="/sussygif/Billy.gif">
+    <img src="/sussygif/Billy.gif">
+</a>
 Desktop developer, Stack: C/C++, Py
 
 ### Никита Лялько
