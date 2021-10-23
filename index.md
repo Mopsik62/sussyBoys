@@ -15,7 +15,7 @@ Desktop developer, Stack: C/C++, Py
 
 ### Никита Лялько
 
-<img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
+<img src="/sussygif/Tohru.gif">
 
 пидарас и хуесос
 
