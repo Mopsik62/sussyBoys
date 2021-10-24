@@ -3,7 +3,7 @@
 # ඩා ඩා
 
 Мы - первокурсники кафедры ИУ5 МГТУ им. Баумана, и мы впервые
-учавствуем в вездекоде
+учавствуем в вездекоде.
 
 Но для нас нет ничего невозможного!
 
@@ -11,14 +11,14 @@
 
 ### Дмитрий Трифонов
 
-
 Desktop developer, Stack: C/C++, Py
+
+
 
 ### Никита Лялько
 
-dafsd
 
-Desktop developer, Stack: C/C++
+C++ game developer
 
 ### Наши контакты
 <p>
@@ -26,6 +26,6 @@ Desktop developer, Stack: C/C++
   
   <a href="https://vk.com/id290473511">Никита</a>
 </p>
-    
+ <img src="https://raw.githubusercontent.com/Mopsik62/sussyBoys/gh-pages/amogus.gif">   
   
 
